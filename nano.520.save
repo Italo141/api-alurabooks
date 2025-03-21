@@ -1,0 +1,11 @@
+# baixando o backend
+git clone https://github.com/alura-cursos/api-alurabooks.git
+
+# acessando a pasta do backend
+cd api-alurabooks
+
+# instalando as dependências listadas no arquivo package.json
+npm install
+
+# executando o backend e o disponibilizando através de um servidor no endereço http://localhost:8000
+npm run start-auth
